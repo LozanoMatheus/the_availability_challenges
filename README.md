@@ -27,6 +27,7 @@ This section we will follow the [Principles of Chaos Engineering](http://princip
 Some tools that we can use/test.
 
 * [Kube Monkey](https://github.com/asobti/kube-monkey) - Bring the Chaos to Kubernetes. Wrote in Go and easy to use or customize.
+  * [Example of use](https://medium.com/@andrewsrobertamary/chaos-testing-date-with-kube-monkey-dbffd86a6202) - An use example 
 * [Janitor Monkey](https://github.com/Netflix/SimianArmy/wiki/Janitor-Home) - Clean up the unused on AWS.
 * [Chaos Monkey](https://github.com/Netflix/SimianArmy/wiki/Chaos-Monkey) - Bring the Chaos to AWS Instances. It will terminate, randomly, the instances on AWS.
 * [Chaos Toolkit](https://github.com/chaostoolkit/chaostoolkit) - Bring the Chaos to everything that you want. Wrote in Python, easy to customize and already has a lot of extensions.
