@@ -40,7 +40,12 @@ This section is about theoretical stuff. Like best practices, some examples, fee
 * [List of Chaos Engineering resources](https://github.com/dastergon/awesome-chaos-engineering)
 * [Principles Of Chaos Engineering](http://principlesofchaos.org/)
 * [Book - Chaos Engineering](https://learning.oreilly.com/library/view/chaos-engineering/9781491988459/)
+
+### Groups and channels
+
 * [Community on Slack](https://slofile.com/slack/chaosengineering)
+* [Group on LinkedIn](https://www.linkedin.com/groups/7057761/)
+* [Group on Google Groups](https://groups.google.com/group/chaos-community)
 
 ---
 
